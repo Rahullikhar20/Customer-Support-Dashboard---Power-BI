@@ -1,0 +1,29 @@
+1️ Count of Customer Issues
+
+- Leveraged the Issue Category to display the number of issues across various categories (e.g., Software, Hardware, Network).
+- Implemented data labels for immediate insights without additional clicks, enhancing the user experience.
+
+2️ Average Resolution Time
+
+- Created a visually compelling Pie Chart to showcase resolution times segmented by customer issues, along with percentage breakdowns for better understanding.
+- Empowered teams to analyze the average time to resolve queries, driving improvements in operational efficiency.
+
+3️ Number of Tech Responses
+
+- Designed an interactive Table View to display detailed issue resolutions, response statuses, and technical solutions provided.
+- Enabled real-time insights into pending and resolved cases, streamlining the tech support process.
+
+4️ Interactive Design and Data Transformation
+
+- Applied advanced data transformation techniques to clean, arrange, and structure raw data effectively.
+- Focused on a sleek, professional design for intuitive navigation and an engaging user experience.
+
+
+💡 Tools and Technologies Used:
+Power BI: Data modeling, DAX, and visualization.
+Data Transformation: Cleaning and preparing raw data for insights.
+Design Techniques: Applied formatting for an aesthetically pleasing and interactive dashboard.
+📈 This project demonstrates how business intelligence tools like Power BI can revolutionize customer support management, enabling faster resolutions and better customer satisfaction.
+
+
+
